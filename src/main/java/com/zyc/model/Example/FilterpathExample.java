@@ -558,7 +558,7 @@ public class FilterpathExample {
 
         public boolean isSingleValue() {
             return singleValue;
-        }
+        } 
 
         public boolean isBetweenValue() {
             return betweenValue;
